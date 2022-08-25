@@ -7,6 +7,7 @@
       font-family: Poppins-Bold;
       font-size: 92px;
       color: #07314D;
+
   }
 .icons{
     width: 40px;
@@ -26,7 +27,56 @@
     height: 120px;
 }
 .btn{
-background: #064061;
-border-radius: 16px;
-color:white 
+    background: #064061;
+    border-radius: 16px;
+    color:white;
+    margin-left: 70px;
+}
+.card-text{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.display-4{
+    margin-left: 70px;
+    font-family: Poppins;
+    font-size: 54px;
+    color: #07314D;
+
+}
+.display-36{
+    margin-left: 100px;
+    font-family: Poppins;
+    font-size: 36px;
+    color: #07314D;
+   
+
+}
+.container{
+    width: 100%;
+}
+.center-container {
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.whitebox{
+    width: 80%;
+    background-color: white;
+    height: 400px;
+    align-items: center;
+    justify-content: center; 
+
+}
+.bgImgCenter{
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/emailpicture.png');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+
 }
