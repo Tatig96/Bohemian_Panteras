@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body {
+    font-family: Poppins-Light
+    font-size: 24px;
+  }
+  header{
+      font-family: Poppins-Bold;
+      font-size: 92px;
+  }
+.icons{
+    width: 40px;
+    height: 40px;
+    padding: 6px;
+}
+.nav-link{
+    color: black
+}
