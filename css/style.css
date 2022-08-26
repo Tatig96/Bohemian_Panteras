@@ -109,3 +109,6 @@
 .line{
     margin-left: 30px;
 }
+.carousel-item{
+    min-height: 280px;
+}
