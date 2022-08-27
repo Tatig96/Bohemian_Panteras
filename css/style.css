@@ -119,3 +119,7 @@
 .justify-content-center2{
     font-size: 10px;
 }
+.nobull{
+    list-style-type: none;
+    padding-left: 70px;
+}
