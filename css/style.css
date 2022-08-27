@@ -7,7 +7,6 @@
       font-family: Poppins-Bold;
       font-size: 92px;
       color: #07314D;
-      padding-left: 50px;
 
   }
   .logo{
@@ -30,6 +29,7 @@
 }
 .nav{
     height: 120px;
+    margin-left:275px;
 }
 .btn{
     background: #064061;
@@ -110,7 +110,6 @@
     color: white;
     line-height: 30px;
     font-size: 16px;
-
 }
 .card-img-top{
     
